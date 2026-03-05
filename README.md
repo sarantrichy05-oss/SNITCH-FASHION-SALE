@@ -108,7 +108,7 @@ The following business questions were explored:
 - Profit Analysis  
 - Interactive Slicers (Region, Category, Time Period)  
 
-![image_alt](
+![image_alt](https://github.com/sarantrichy05-oss/SNITCH-FASHION-SALE/blob/2a9ca4e210a8613b8c372d3e1716fdb709bd1d6d/DASHBOARD.pdf)
 
 ### Key Insights
 
